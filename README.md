@@ -1,3 +1,34 @@
-# chatterapp-week-0
+## Chatter App Challenge
+### Starter Pack for Week 1
 
-test
+### Working with Github
+
+Clone the repository to your local machine using the integrated Terminal in VS Code (View --> Terminal).
+
+```bash
+git clone https://github.com/TUMxInteractionProgramming/chatterapp-week-1-YOURGITHUBNAME
+```
+
+Follow the instructions and code the first challenge. Commit all changes with a commit message when you're finished.
+
+```bash
+git add --all
+```
+
+```bash
+git commit -m "Finished challenge 1"
+```
+
+Upload all changes to your Github repository.
+
+```bash
+git push origin master
+```
+
+Submit your repository for peer assessment. Paste the URL of this repository
+
+```url
+https://github.com/TUMxInteractionProgramming/chatterapp-week-1-YOURGITHUBNAME
+```
+
+into the submission editor on edX.
